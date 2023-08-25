@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>design on LTDev</title><link>https://develtar.github.io/categories/design/</link><description>Recent content in design on LTDev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 20:07:16 +0100</lastBuildDate><atom:link href="https://develtar.github.io/categories/design/index.xml" rel="self" type="application/rss+xml"/><item><title>UI/UX Design Resources</title><link>https://develtar.github.io/posts/ui-ux-design-resources/</link><pubDate>Wed, 18 Jan 2023 20:07:16 +0100</pubDate><guid>https://develtar.github.io/posts/ui-ux-design-resources/</guid><description>Icon Packs List of free design icon packs:
+Feather Icons (license MIT)
+Atlas Icons (license MIT)
+Tablericons (license CC BY 4.0)
+Flat icons (license CC BY 4.0)
+BIC icons (license CC BY 4.0)
+UI Line (license CC BY 4.0)
+Nataicons (license CC BY 4.0)
+heroicons (license CC BY 4.0)
+Untitled UI Icons (license CC BY 4.0)
+Flags (license CC BY 4.0)
+SWM Icon Pack (license CC BY 4.0)
+Iconic (license WTFPL)</description></item><item><title>Create a custom code highlight for Hugo</title><link>https://develtar.github.io/posts/hugo-custom-highlight-js/</link><pubDate>Mon, 09 Jan 2023 21:37:45 +0100</pubDate><guid>https://develtar.github.io/posts/hugo-custom-highlight-js/</guid><description>This article explains how to change the code highlight for a custom hugo website theme.
+Suppose that the website is based on the PaperMod theme, and the source code colors needs to be customized.
+In the PaperMod theme, the highlight.js library is used to provide different styles for each defined language. This file is located in:
+. └── themes └── PaperMod └── assets └── js └── highlight.min.js Now, update the minified library in the custom theme to apply the changes, and change the css style for the target language:</description></item></channel></rss>
